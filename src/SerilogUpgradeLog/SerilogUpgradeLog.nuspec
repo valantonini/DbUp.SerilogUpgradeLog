@@ -13,8 +13,8 @@
     <copyright>Copyright 2015</copyright>
     <tags>Serilog DbUp</tags>
     <dependencies>
-      <dependency id="dbup"  />
-      <dependency id="serilog"  />
+      <dependency id="dbup" version="3.3.0" />
+      <dependency id="serilog" version="1.5.11" />
     </dependencies>
   </metadata>
   <files>
