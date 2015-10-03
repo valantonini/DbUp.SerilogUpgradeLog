@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>DbUpSerilogUpgradeLog</id>
+    <id>DbUp.SerilogUpgradeLogger</id>
     <title>DbUp Serilog Upgrade Log</title>
     <summary>DbUp Serilog Upgrade Log</summary>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>val antonini</authors>
     <owners>val antonini</owners>
-    <licenseUrl>https://github.com/valantonini/DbUp.SerilogUpgradeLog/blob/master/license.txt</licenseUrl>
-    <projectUrl>https://github.com/valantonini/DbUp.SerilogUpgradeLog</projectUrl>
+    <licenseUrl>https://github.com/valantonini/DbUp.SerilogUpgradeLogger/blob/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/valantonini/DbUp.SerilogUpgradeLogger</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Serilog IUpgradeLog Implementation</description>
     <releaseNotes>Version 1</releaseNotes>
