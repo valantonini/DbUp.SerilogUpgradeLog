@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SerilogUpgradeLog</id>
+    <version>1.0.0</version>
+    <authors>val antonini</authors>
+    <owners>val antonini</owners>
+    <licenseUrl>https://github.com/valantonini/DbUp.SerilogUpgradeLog/blob/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/valantonini/DbUp.SerilogUpgradeLog</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Serilog IUpgradeLog Implementation</description>
+    <releaseNotes>Version 1</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Serilog DbUp</tags>
+    <dependencies>
+      <dependency id="dbup"  />
+      <dependency id="serilog"  />
+    </dependencies>
+  </metadata>
+  <files>
+      <file src="bin\release\SerilogUpgradeLog.dll" target="lib\net40\" />
+  </files>
+</package>
