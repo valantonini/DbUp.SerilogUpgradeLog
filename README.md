@@ -13,6 +13,6 @@ var upgrader =
          .SqlDatabase("")
          .WithScriptsEmbeddedInAssembly(Assembly.GetExecutingAssembly())
          .LogToConsole()
-         .LogTo(new SerilogUpgradeLogger())
+         .LogTo(new SerilogUpgradeLogger()) //add this line
          .Build();
 ```
