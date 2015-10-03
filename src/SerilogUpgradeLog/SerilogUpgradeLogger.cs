@@ -4,7 +4,7 @@ using Serilog;
 
 namespace SerilogUpgradeLog
 {
-    public class SerilogUpgradeLog : IUpgradeLog
+    public class SerilogUpgradeLogger : IUpgradeLog
     {
         public void WriteInformation(String format, params Object[] args)
         {
