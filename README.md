@@ -2,6 +2,8 @@
 
 Serilog IUpgradeLog implementation
 
+###Installation
+     Install-Package DbUp.SerilogUpgradeLogger
 
 ###Usage:
 
