@@ -4,7 +4,7 @@
     <id>DbUp.SerilogUpgradeLogger</id>
     <title>DbUp Serilog Upgrade Log</title>
     <summary>DbUp Serilog Upgrade Log</summary>
-    <version>1.0.3</version>
+    <version>1.0.5</version>
     <authors>val antonini</authors>
     <owners>val antonini</owners>
     <licenseUrl>https://github.com/valantonini/DbUp.SerilogUpgradeLogger/blob/master/license.txt</licenseUrl>
@@ -15,8 +15,8 @@
     <copyright>Copyright 2015</copyright>
     <tags>Serilog DbUp</tags>
     <dependencies>
-      <dependency id="dbup" version="2.0.0" />
-      <dependency id="serilog" version="1.5.11" />
+      <dependency id="dbup" version="2.0.67" />
+      <dependency id="serilog" version="1.5.1" />
     </dependencies>
   </metadata>
   <files>
